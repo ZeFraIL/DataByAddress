@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "667795112649",
+    "firebase_url": "https://databyaddress-default-rtdb.firebaseio.com",
+    "project_id": "databyaddress",
+    "storage_bucket": "databyaddress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667795112649:android:2f6a333ac591b21e150318",
+        "android_client_info": {
+          "package_name": "zeev.fraiman.databyaddress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-JBSth9Qnq66zHN5OSwqFg0VPBhhb50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
